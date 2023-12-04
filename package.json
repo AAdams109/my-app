@@ -1,5 +1,5 @@
-"homepage":"https://aadams109.github.io/my-app",
-"scripts":{ 
+"homepage": "https://aadams109.github.io/my-app",
+"scripts": { 
 "predeploy": "npm run build", 
 "deploy": "gh-pages -d build" 
 }
