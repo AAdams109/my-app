@@ -1,8 +1,8 @@
-"homepage": "https://aadams109.github.io/my-app/",
-"scripts": { 
- "predeploy": "npm run build", 
- "deploy": "gh-pages -d build" 
- }
+"homepage":"https://aadams109.github.io/my-app",
+"scripts":{ 
+"predeploy": "npm run build", 
+"deploy": "gh-pages -d build" 
+}
 {
   "name": "my-app",
   "version": "0.1.0",
